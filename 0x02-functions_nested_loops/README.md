@@ -7,4 +7,5 @@ task 5- sign
 task 6- abs
 task 7- last digit
 task 8- 24 hours
-task 9- times table   
+task 9- times table
+task 10- add    
