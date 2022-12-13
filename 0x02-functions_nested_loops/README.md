@@ -10,4 +10,5 @@ task 8- 24 hours
 task 9- times table
 task 10- add
 task 11- nubering from 98
-task 100- times table 2 
+task 100- times table 2
+task 101- natural  
