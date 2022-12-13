@@ -8,4 +8,5 @@ task 6- abs
 task 7- last digit
 task 8- 24 hours
 task 9- times table
-task 10- add    
+task 10- add
+task 11- nubering from 98 
