@@ -8,3 +8,4 @@ task 6- print line
 task 7- diaginal
 task 8- print square
 task 9- fizz buzz
+task 10- print triangle
