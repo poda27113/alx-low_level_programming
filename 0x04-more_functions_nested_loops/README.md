@@ -9,3 +9,4 @@ task 7- diaginal
 task 8- print square
 task 9- fizz buzz
 task 10- print triangle
+task 100- prime factor
