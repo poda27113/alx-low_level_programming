@@ -1,5 +1,7 @@
-task 0- reset to 98
+task 0- reset 
 task 1- swap
-task 2- strlen 
+task 2- strlen
 task 3- puts
-task 4- print rev
+task 4- print reverse
+task 5- reverse string
+taske 6- put 2
