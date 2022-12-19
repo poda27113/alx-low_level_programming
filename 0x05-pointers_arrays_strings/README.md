@@ -8,3 +8,4 @@ taske 6- put 2
 task 7- puts half
 task 8- print array
 task 9- strcpy
+task 100-  convert a string to an integer
