@@ -7,3 +7,4 @@ task 5- reverse string
 taske 6- put 2
 task 7- puts half
 task 8- print array
+task 9- strcpy
