@@ -8,4 +8,6 @@ task 6- cap string
 task 7- leet
 task 8- rot13
 task 9- print number 
+task 10- magic
+task 11- infinite add 
  
