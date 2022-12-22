@@ -5,5 +5,6 @@ task 3- strcmp
 task 4- rev array 
 task 5- string toupper
 task 6- cap string 
-task 7- leet 
+task 7- leet
+task 8- rot13 
  
