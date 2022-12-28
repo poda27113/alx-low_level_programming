@@ -5,5 +5,7 @@ tasks 3- alphabet
 task 4- print alphabet
 tasks 5- print number  
 tasks 6- numberz
-tasks 7- print base
-tasks 8- print combination
+tasks 7- print tel
+tasks 8- print base
+tasks 9 - print combination
+tasks 10- print combo
