@@ -1,4 +1,4 @@
-#include "putchar.h"
+#include "main.h"
 
 /**
  *  * main - Prints putcher as a message.
@@ -7,7 +7,7 @@
  *     */
 int main(void)
 {
-		int str[] = {_,112,117,116,99,104,97,114};
+		int str[] = {112,117,116,99,104,97,114};
 			int count, sz;
 
 				sz = sizeof(str) / sizeof(int);
