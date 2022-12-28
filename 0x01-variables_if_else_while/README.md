@@ -6,3 +6,4 @@ task 4- print alphabet
 tasks 5- print number  
 tasks 6- numberz
 tasks 7- print base
+tasks 8- print combination
