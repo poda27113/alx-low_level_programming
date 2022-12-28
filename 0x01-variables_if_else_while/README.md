@@ -9,3 +9,4 @@ tasks 7- print tel
 tasks 8- print base
 tasks 9 - print combination
 tasks 10- print combo
+tasks 11- print com4
