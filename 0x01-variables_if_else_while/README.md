@@ -1,2 +1,3 @@
 task 0- positive
 task 1- last digit
+tasks 2- print 
