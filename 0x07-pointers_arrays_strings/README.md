@@ -5,3 +5,4 @@ tasks 3- prefix
 tasks4- search strings
 tasks 5- substring
 tasks 6- pint
+tasks 7- diagonal summition
