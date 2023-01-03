@@ -4,3 +4,4 @@ tasks 2- strings
 tasks 3- prefix
 tasks4- search strings
 tasks 5- substring
+tasks 6- pint
