@@ -1,0 +1,9 @@
+task 0- preprocessor
+task 1- complier
+task 2- assembler
+task 3- name
+task 4- puts
+task 5- print
+task 6- size
+task 7- intel
+task 8- quote 
