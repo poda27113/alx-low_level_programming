@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * Prototype: void print_binary(unsigned long int n);
